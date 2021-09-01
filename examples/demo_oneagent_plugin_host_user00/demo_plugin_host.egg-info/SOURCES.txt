@@ -1,0 +1,6 @@
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.py
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.egg-info/PKG-INFO
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.egg-info/SOURCES.txt
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.egg-info/dependency_links.txt
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.egg-info/requires.txt
+C:/Users/Jean.Louis.Lormeau/Downloads/plugin-sdk-1.223.105.20210824-140926/examples/demo_oneagent_plugin_host_user00/demo_plugin_host.egg-info/top_level.txt
